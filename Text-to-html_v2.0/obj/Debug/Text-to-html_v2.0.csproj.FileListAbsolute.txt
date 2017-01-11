@@ -1,0 +1,13 @@
+D:\gerbster\Documents\VisualStudio\projects\Text-to-html_v2.0\Text-to-html_v2.0\bin\Debug\Text-to-html_v2.0.exe.config
+D:\gerbster\Documents\VisualStudio\projects\Text-to-html_v2.0\Text-to-html_v2.0\bin\Debug\Text-to-html_v2.0.exe
+D:\gerbster\Documents\VisualStudio\projects\Text-to-html_v2.0\Text-to-html_v2.0\bin\Debug\Text-to-html_v2.0.pdb
+D:\gerbster\Documents\VisualStudio\projects\Text-to-html_v2.0\Text-to-html_v2.0\obj\Debug\Text-to-html_v2.0.csprojResolveAssemblyReference.cache
+D:\gerbster\Documents\VisualStudio\projects\Text-to-html_v2.0\Text-to-html_v2.0\obj\Debug\Text_to_html_v2._0.Form1.resources
+D:\gerbster\Documents\VisualStudio\projects\Text-to-html_v2.0\Text-to-html_v2.0\obj\Debug\Text_to_html_v2._0.Properties.Resources.resources
+D:\gerbster\Documents\VisualStudio\projects\Text-to-html_v2.0\Text-to-html_v2.0\obj\Debug\Text-to-html_v2.0.csproj.GenerateResource.Cache
+D:\gerbster\Documents\VisualStudio\projects\Text-to-html_v2.0\Text-to-html_v2.0\obj\Debug\Text-to-html_v2.0.exe
+D:\gerbster\Documents\VisualStudio\projects\Text-to-html_v2.0\Text-to-html_v2.0\obj\Debug\Text-to-html_v2.0.pdb
+D:\gerbster\Documents\VisualStudio\projects\Text-to-html_v2.0\Text-to-html_v2.0\bin\Debug\Text-to-html_v2.0.exe.manifest
+D:\gerbster\Documents\VisualStudio\projects\Text-to-html_v2.0\Text-to-html_v2.0\bin\Debug\Text-to-html_v2.0.application
+D:\gerbster\Documents\VisualStudio\projects\Text-to-html_v2.0\Text-to-html_v2.0\obj\Debug\Text-to-html_v2.0.exe.manifest
+D:\gerbster\Documents\VisualStudio\projects\Text-to-html_v2.0\Text-to-html_v2.0\obj\Debug\Text-to-html_v2.0.application
